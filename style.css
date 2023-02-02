@@ -10,7 +10,7 @@ nav a {
 	/* identical to box height */
 	text-align: center;
 
-	color: #F2D2AE;
+	color: #F2D2AE !important;
 }
 
 #hero {
